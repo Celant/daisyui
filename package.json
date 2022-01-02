@@ -1,5 +1,5 @@
 {
-  "name": "daisyui",
+  "name": "@celant/daisyui",
   "version": "1.21.0",
   "description": "daisyUI - Tailwind CSS Components",
   "author": "Pouya Saadeghi",
@@ -36,10 +36,7 @@
     "colors"
   ],
   "publishConfig": {
-    "access": "public",
-    "branches": [
-      "master"
-    ]
+    "@celant:registry": "https://gitlab.com/api/v4/projects/31292287/packages/npm/"
   },
   "devDependencies": {
     "autoprefixer": "10.0.4",
